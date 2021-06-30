@@ -1,8 +1,6 @@
 
 
-// Using 0,1,2 technique
-
-// 1) Using DFS and flag pointer
+// Using DFS and flag pointer
 
 class Solution
 {
@@ -46,7 +44,7 @@ class Solution
 };
 
 
-// 2) Using DFS and without flag pointer
+// Using DFS and without flag pointer
 
 class Solution
 {
@@ -89,6 +87,3 @@ class Solution
         return var;
 	}
 };
-
-
-
